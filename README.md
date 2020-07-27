@@ -8,6 +8,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: None for now
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominguetigs&title_color=ffffff&text_color=B9DAF4&bg_color=191919)](https://github.com/dominguetigs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominguetigs&layout=compact&title_color=ffffff&text_color=B9DAF4&bg_color=191919)](https://github.com/dominguetigs/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=dominguetigs&show_icons=true&title_color=ffffff&icon_color=0078D7&text_color=B9DAF4&bg_color=191919">
