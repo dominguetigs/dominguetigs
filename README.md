@@ -13,8 +13,8 @@ I`m a mechatronic engineer 🙍🏽‍♂️, immersed in the career of software
 - 🤔 My interests are with Web Development, Machine Learning, algorithms, Mathematics, Physics and Universe
 - 💬 Ask me about Javascript/Typescript or any Web Framework, such as Angular, React and VueJS
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gustavodomingueti/)
-<!-- - 😄 Pronouns: He/His -->
-<!-- - ⚡ Fun fact: None for now -->
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: None for now
 
 ---
 
