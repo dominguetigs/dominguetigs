@@ -50,16 +50,16 @@ I`m a Mecatronic Engineer 🙍🏽‍♂️, immersed in the career of software 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominguetigs&layout=compact&theme=algolia" />
 </a>
 
----
+<!-- --- -->
 
-**Best Repositories:**
+<!--  **Best Repositories:** -->
 
-<a href="https://github.com/dominguetigs/memory-game">
+<!--  <a href="https://github.com/dominguetigs/memory-game">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dominguetigs&repo=memory-game&theme=algolia" />
 </a>    
 <a href="https://github.com/dominguetigs/js-funcional">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dominguetigs&repo=js-funcional&theme=algolia" />
-</a>
+</a> -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominguetigs&layout=compact&title_color=ffffff&text_color=B9DAF4&bg_color=191919)](https://github.com/dominguetigs/github-readme-stats) -->
 
