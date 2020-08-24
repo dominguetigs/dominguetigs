@@ -6,7 +6,7 @@ I`m a Mecatronic Engineer 🙍🏽‍♂️, immersed in the career of software 
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on [Digesto](https://www.digesto.com.br)
+<!-- - 🔭 I’m currently working on [Digesto](https://www.digesto.com.br) -->
 - 🌱 I’m currently learning Python and C/C++
 - 📅 I`m planning to study Machine Learning, physical animations with Canvas or some purely functional language
 - 👯 I’m looking to collaborate on Discord/Linkedin/Github
