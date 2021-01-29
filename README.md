@@ -14,6 +14,7 @@ I`m a Mecatronic Engineer 🙍🏽‍♂️, immersed in the career of software 
 - 💬 Ask me about Javascript/Typescript or any Web Framework, such as Angular, React and VueJS
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gustavodomingueti/)
 - 😄 Pronouns: He/His
+- I love several games. Especially CHESS s2
 - ⚡ Fun fact: None for now
 
 ---
