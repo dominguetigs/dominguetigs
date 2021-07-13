@@ -8,14 +8,14 @@ I`m a Mecatronic Engineer 🙍🏽‍♂️, immersed in the career of software 
 
 <!-- - 🔭 I’m currently working on [Digesto](https://www.digesto.com.br) -->
 - 🌱 I’m currently learning Python and C/C++
-- 📅 I`m planning to study Machine Learning, physical animations with Canvas or some purely functional language
+- 📅 I`m planning to study Machine Learning
 - 👯 I’m looking to collaborate on Discord/Linkedin/Github
 - 🤔 My interests are with Web Development, Machine Learning, algorithms, Mathematics, Physics and Universe
-- 💬 Ask me about Javascript/Typescript or any Web Framework, such as Angular, React and VueJS
+- 💬 Ask me about Javascript/Typescript or some Web Framework, specially Angular
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gustavodomingueti/)
 - 😄 Pronouns: He/His
 - :video_game: I love several games. Especially CHESS s2
-- ⚡ Fun fact: None for now
+<!-- - ⚡ Fun fact: None for now -->
 
 ---
 
@@ -37,11 +37,11 @@ I`m a Mecatronic Engineer 🙍🏽‍♂️, immersed in the career of software 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
 
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> -->
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code> -->
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code> -->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ---
