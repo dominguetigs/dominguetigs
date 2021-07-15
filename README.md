@@ -7,7 +7,7 @@ I`m a Mecatronic Engineer 🙍🏽‍♂️, immersed in the career of software 
 **Talking about Personal Stuffs:**
 
 <!-- - 🔭 I’m currently working on [Digesto](https://www.digesto.com.br) -->
-- 🌱 I’m currently learning Python and C/C++
+- 🌱 I’m currently learning Elixir and C/C++
 - 📅 I`m planning to study Machine Learning
 - 👯 I’m looking to collaborate on Discord/Linkedin/Github
 - 🤔 My interests are with Web Development, Machine Learning, algorithms, Mathematics, Physics and Universe
@@ -23,6 +23,7 @@ I`m a Mecatronic Engineer 🙍🏽‍♂️, immersed in the career of software 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <!--
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
