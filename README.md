@@ -12,7 +12,7 @@ I`m a Mecatronic Engineer 🙍🏽‍♂️, immersed in the career of software 
 - 👯 I’m looking to collaborate on Discord/Linkedin/Github
 - 🤔 My interests are with Web Development, Machine Learning, algorithms, Mathematics, Physics and Universe
 - 💬 Ask me about Javascript/Typescript or some Web Framework, specially Angular
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gustavodomingueti/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dominguetigs/)
 - 😄 Pronouns: He/His
 - :video_game: I love several games. Especially CHESS s2
 <!-- - ⚡ Fun fact: None for now -->
