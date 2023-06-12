@@ -45,15 +45,19 @@ I`m a Mecatronic Engineer 🙍🏽‍♂️, immersed in the career of software 
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code> -->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+
+
+<!--
 ---
 
 <a href="https://github.com/dominguetigs/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dominguetigs&show_icons=true&include_all_commits=true&theme=algolia" alt="dominguetigs's github stats" />
 </a>
+
 <a href="https://github.com/dominguetigs/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominguetigs&layout=compact&theme=algolia" />
 </a>
-
+-->
 <!-- --- -->
 
 <!--  **Best Repositories:** -->
