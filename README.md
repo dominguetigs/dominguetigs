@@ -7,10 +7,10 @@ I`m a Mecatronic Engineer 🙍🏽‍♂️, immersed in the career of software 
 **Talking about Personal Stuffs:**
 
 <!-- - 🔭 I’m currently working on [Digesto](https://www.digesto.com.br) -->
-- 🌱 I’m currently learning Elixir and C/C++
-- 📅 I`m planning to study Machine Learning
-- 👯 I’m looking to collaborate on Discord/Linkedin/Github
-- 🤔 My interests are with Web Development, Machine Learning, algorithms, Mathematics, Physics and Universe
+<!-- - 🌱 I’m currently learning Elixir and C/C++ -->
+- 📅 I`m planning to study Rust
+- 👯 I’m looking to collaborate on Linkedin/Github
+- 🤔 My interests are with Web Development, algorithms, Mathematics, Physics and Universe
 - 💬 Ask me about Javascript/Typescript or some Web Framework, specially Angular, React and NextJS
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dominguetigs/)
 - 😄 Pronouns: He/His
