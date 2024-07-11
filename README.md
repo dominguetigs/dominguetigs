@@ -4,10 +4,11 @@ I`m a Mecatronic Engineer 🙍🏽‍♂️, immersed in the career of software 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-**Talking about Personal Stuffs:**
+<!-- **Talking about Personal Stuffs:** -->
 
 <!-- - 🔭 I’m currently working on [Digesto](https://www.digesto.com.br) -->
 <!-- - 🌱 I’m currently learning Elixir and C/C++ -->
+<!--
 - 📅 I`m planning to study Rust
 - 👯 I’m looking to collaborate on Linkedin/Github
 - 🤔 My interests are with Web Development, algorithms, Mathematics, Physics and Universe
@@ -15,6 +16,7 @@ I`m a Mecatronic Engineer 🙍🏽‍♂️, immersed in the career of software 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dominguetigs/)
 - 😄 Pronouns: He/His
 - :video_game: I love several games. Especially CHESS s2
+-->
 <!-- - ⚡ Fun fact: None for now -->
 
 ---
