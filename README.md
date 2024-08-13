@@ -1,6 +1,6 @@
 ### Hi, I`m Gustavo Domingueti! 👋
 
-I`m a Mecatronic Engineer 🙍🏽‍♂️, immersed in the career of software engineer 👨🏽‍💻, where every day is an intense and exciting new challenge to be met. Always learning, because knowledge is never too much 🚀. Passionate about Mathematics, Physics and the Universe - *Science in general* :milky_way:.
+I`m a Mecatronic Engineer 🙍🏽‍♂️, immersed in the career of Software Engineer 👨🏽‍💻, where every day is an intense and exciting new challenge to be met. Always learning, because knowledge is never too much 🚀. Passionate about Mathematics, Physics and the Universe - *Science in general* :milky_way:.
 
 <!--
   <img alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
