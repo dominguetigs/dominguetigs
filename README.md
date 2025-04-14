@@ -32,6 +32,6 @@ I`m a Mecatronic Engineer 🙍🏽‍♂️, immersed in the career of Software 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominguetigs&layout=compact&title_color=ffffff&text_color=B9DAF4&bg_color=191919)](https://github.com/dominguetigs/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominguetigs&layout=compact&title_color=ffffff&text_color=B9DAF4&bg_color=191919)](https://github.com/dominguetigs/github-readme-stats)
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=dominguetigs&show_icons=true&title_color=ffffff&icon_color=0078D7&text_color=B9DAF4&bg_color=191919"> -->
+<img src="https://github-readme-stats.vercel.app/api?username=dominguetigs&show_icons=true&title_color=ffffff&icon_color=0078D7&text_color=B9DAF4&bg_color=191919">
