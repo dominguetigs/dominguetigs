@@ -1,38 +1,76 @@
-### Hi, I`m Gustavo Domingueti! 👋
-
-I`m a Mecatronic Engineer 🙍🏽‍♂️, immersed in the career of Software Engineer 👨🏽‍💻, where every day is an intense and exciting new challenge to be met. Always learning, because knowledge is never too much 🚀. Passionate about Mathematics, Physics and the Universe - *Science in general* :milky_way:.
+<h1 align="center">👋 Hi, I'm <span style="color:#00bcd4">Gustavo Domingueti</span></h1>
+<h3 align="center">💻 Front-end Engineer | ⚙️ Mechatronic Engineer | 🚀 Science Enthusiast</h3>
 
 <!--
-  <img alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+---
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300" alt="animated code gif">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Futuristic AI animation">
+</p>
 -->
+
+---
+
+### 🧭 About Me
+
+I`m a Mecatronic Engineer 🙍🏽‍♂️, immersed in the career of Software Engineer 👨🏽‍💻, where every day is an intense and exciting new challenge to be met. Always learning, because knowledge is never too much 🚀. Passionate about Mathematics, Physics and the Universe - *Science in general* :milky_way:.
 
 
 ---
 
-**Languages and Tools:**
+### 🧰 Tech Stack
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<p align="center">
+  <br />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python" height="40" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,angular,vue,svelte" height="40" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=tailwind,sass,less,css" height="40" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=vite,rollup,webpack,babel" height="40" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,bash" height="40" />
+</p>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/less/less.png"></code>
+### 📊 GitHub Insights
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png"></code>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=dominguetigs&show_icons=true&theme=dracula"
+    height="165"
+    alt="GitHub Stats"
+  />
+  &nbsp;&nbsp;
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominguetigs&layout=compact&theme=dracula"
+    height="165"
+    alt="Top Languages"
+  />
+</p>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dominguetigs/dominguetigs/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dominguetigs/dominguetigs/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dominguetigs/dominguetigs/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominguetigs&layout=compact&title_color=ffffff&text_color=B9DAF4&bg_color=191919)](https://github.com/dominguetigs/github-readme-stats)
-<!--
- <img src="https://github-readme-stats.vercel.app/api?username=dominguetigs&show_icons=true&title_color=ffffff&icon_color=0078D7&text_color=B9DAF4&bg_color=191919">
--->
+---
+
+### 🌐 Find me around the web
+
+<p align="center">
+  <a href="https://gustavodomingueti.com.br" target="_blank"><img src="https://img.shields.io/badge/Portfolio-191919?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/gustavo-domingueti" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/dominguetigs" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+> *“Science is curiosity organized. Software is curiosity executed.”* — G.D.
