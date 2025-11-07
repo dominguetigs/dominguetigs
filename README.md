@@ -19,12 +19,11 @@
 
 I`m a Mecatronic Engineer 🙍🏽‍♂️, immersed in the career of Software Engineer 👨🏽‍💻, where every day is an intense and exciting new challenge to be met. Always learning, because knowledge is never too much 🚀. Passionate about Mathematics, Physics and the Universe - *Science in general* :milky_way:.
 
-
 ---
 
 ### 🧰 Tech Stack
 
-<p align="left">
+<p align="center">
   <br />
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python" height="40" />
   <br />
