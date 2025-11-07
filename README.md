@@ -27,14 +27,76 @@
 
 ---
 
-### 🧭 About Me
+### About Me
 
 I`m a Mecatronic Engineer 🙍🏽‍♂️, immersed in the career of Software Engineer 👨🏽‍💻, where every day is an intense and exciting new challenge to be met. Always learning, because knowledge is never too much 🚀. Passionate about Mathematics, Physics and the Universe - *Science in general* :milky_way:.
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
+<!-- Languages -->
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go" />
+  <img src="https://img.shields.io/badge/Shell_Script-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Shell Script" />
+
+</p>
+
+<!-- Frontend -->
+<p align="left">
+  <img src="https://img.shields.io/badge/React.js-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031" alt="Angular" />
+  <img src="https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Svelte-0D1117?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="Svelte" />
+</p>
+
+<!-- UI & Design -->
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=CC6699" alt="Sass" />
+  <img src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/MUI-0D1117?style=for-the-badge&logo=mui&logoColor=0081CB" alt="MUI" />
+  <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
+  <img src="https://img.shields.io/badge/Three.js-0D1117?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF" alt="Three.js" />
+</p>
+
+<!-- Backend -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=61DAFB" alt="Express.js" />
+</p>
+
+<!-- Databases -->
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=4ea94b" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+</p>
+
+<!-- Devops & Cloud & Git -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=0db7ed" alt="Docker" />
+  <!-- <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" /> -->
+  <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF" alt="AWS" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05033" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+</p>
+
+<!-- Build tools-->
+<p align="left">
+  <img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
+  <img src="https://img.shields.io/badge/Webpack-0D1117?style=for-the-badge&logo=webpack&logoColor=8DD6F9" alt="Webpack" />
+  <img src="https://img.shields.io/badge/Rollup-0D1117?style=for-the-badge&logo=rollup.js&logoColor=EC4A3F" alt="Rollup" />
+  <img src="https://img.shields.io/badge/Babel-0D1117?style=for-the-badge&logo=babel&logoColor=F9DC3E" alt="Babel" />
+</p>
+
+<!--
 <p align="center">
   <br />
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python" height="40" />
@@ -47,10 +109,11 @@ I`m a Mecatronic Engineer 🙍🏽‍♂️, immersed in the career of Software 
   <br />
   <img src="https://skillicons.dev/icons?i=docker,git,github,bash" height="40" />
 </p>
+-->
 
 ---
 
-### 📊 GitHub Insights
+### GitHub Insights
 
 <p align="center">
   <img 
