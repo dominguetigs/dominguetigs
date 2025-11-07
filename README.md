@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#00bcd4">Gustavo Domingueti</span></h1>
-<h3 align="center">💻 Front-end Engineer&nbsp;&nbsp;|&nbsp;&nbsp;⚙️ Mechatronic Engineer&nbsp;&nbsp;|&nbsp;&nbsp;🚀 Science Enthusiast</h3>
+<h3 align="center">💻 Software Engineer&nbsp;&nbsp;|&nbsp;&nbsp;🎨 Front-end Engineer&nbsp;&nbsp;|&nbsp;&nbsp;⚛️ Exact Sciences Enthusiast</h3>
 
 <p align="center">
   <a href="https://gustavodomingueti.com.br" target="_blank">
