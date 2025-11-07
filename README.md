@@ -1,6 +1,18 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#00bcd4">Gustavo Domingueti</span></h1>
 <h3 align="center">💻 Front-end Engineer&nbsp;&nbsp;|&nbsp;&nbsp;⚙️ Mechatronic Engineer&nbsp;&nbsp;|&nbsp;&nbsp;🚀 Science Enthusiast</h3>
 
+<p align="center">
+  <a href="https://gustavodomingueti.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-191919?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/gustavo-domingueti" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/dominguetigs" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
 <!--
 ---
 
@@ -59,16 +71,6 @@ I`m a Mecatronic Engineer 🙍🏽‍♂️, immersed in the career of Software 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dominguetigs/dominguetigs/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dominguetigs/dominguetigs/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
----
-
-### 🌐 Find me around the web
-
-<p align="center">
-  <a href="https://gustavodomingueti.com.br" target="_blank"><img src="https://img.shields.io/badge/Portfolio-191919?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/gustavo-domingueti" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/dominguetigs" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
 
 ---
 
