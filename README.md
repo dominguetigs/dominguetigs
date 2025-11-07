@@ -24,7 +24,7 @@ I`m a Mecatronic Engineer 🙍🏽‍♂️, immersed in the career of Software 
 
 ### 🧰 Tech Stack
 
-<p align="center">
+<p align="left">
   <br />
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python" height="40" />
   <br />
